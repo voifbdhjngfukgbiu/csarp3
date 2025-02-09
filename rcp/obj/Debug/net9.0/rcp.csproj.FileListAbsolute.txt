@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\csarp3\rcp\bin\Debug\net9.0\rcp.exe
+C:\Users\Admin\Desktop\csarp3\rcp\bin\Debug\net9.0\rcp.deps.json
+C:\Users\Admin\Desktop\csarp3\rcp\bin\Debug\net9.0\rcp.runtimeconfig.json
+C:\Users\Admin\Desktop\csarp3\rcp\bin\Debug\net9.0\rcp.dll
+C:\Users\Admin\Desktop\csarp3\rcp\bin\Debug\net9.0\rcp.pdb
+C:\Users\Admin\Desktop\csarp3\rcp\obj\Debug\net9.0\rcp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\csarp3\rcp\obj\Debug\net9.0\rcp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\csarp3\rcp\obj\Debug\net9.0\rcp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\csarp3\rcp\obj\Debug\net9.0\rcp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\csarp3\rcp\obj\Debug\net9.0\rcp.dll
+C:\Users\Admin\Desktop\csarp3\rcp\obj\Debug\net9.0\refint\rcp.dll
+C:\Users\Admin\Desktop\csarp3\rcp\obj\Debug\net9.0\rcp.pdb
+C:\Users\Admin\Desktop\csarp3\rcp\obj\Debug\net9.0\rcp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\csarp3\rcp\obj\Debug\net9.0\ref\rcp.dll
